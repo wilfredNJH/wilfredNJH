@@ -15,7 +15,7 @@
 
 ### About Me 🚀
 💻 I’m a software engineer with a bachelor's degree in computer science @ DigiPen Institute of Technology Singapore. </br> </br>
-💬 Feel more than welcome to contact me if you need any help or want to discuss any software development/product topic! </br></br>
+💬 Feel more than welcome to contact me if want to discuss any software development/product topic! </br></br>
    
  <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
     
