@@ -8,7 +8,9 @@
 <a href="mailto:wilfred.njh@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+<a href="https://www.kaggle.com/nekomaster88">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" />
+</a>
 <br/>
 
 ### About Me 🚀
